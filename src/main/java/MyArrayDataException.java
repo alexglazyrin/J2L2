@@ -1,4 +1,6 @@
 public class MyArrayDataException extends Exception {
+    // забыл содзать ветку
+
 
     public int i;
     public int j;
